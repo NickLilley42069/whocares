@@ -1,0 +1,25 @@
+* {
+    background-color: #242424;
+}
+
+#main {
+    padding: 10px;
+    background-color: #003f66;
+word-wrap: normal;
+    display: block;
+    margin: 0 auto;
+}
+
+.yammysFace {
+    border-radius: 20px;
+    box-shadow: #242424;
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: 400px;
+}
+
+div p {
+    font-size: 25px;
+    text-align: center;
+}
