@@ -1,0 +1,21 @@
+* {
+    background-color: #A00C21;
+}
+
+img {
+    border-radius: 25px;
+}
+
+.ilyJunyo {
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.ilyJunyo p {
+    font-size: 20px;
+    background-color: #EC3530;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+}
